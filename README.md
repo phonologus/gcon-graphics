@@ -1,5 +1,7 @@
 # gcon-graphics
 
+**Status: ARCHIVED.** Development has moved to [gcon/graphics](https://github.com/phonologus/gcon).
+
 The display server for gcon (Go-based Icon). gcon runs Icon 9.5 programs
 in Go and owns Icon's graphics semantics: the event queue, `Event()`,
 the event keywords, window and context values. This server owns the
